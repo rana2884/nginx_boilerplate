@@ -1,1 +1,3 @@
-# nginx_template
+# nginx_boilerplate
+
+- Hardened nginx settings
